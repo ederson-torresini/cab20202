@@ -12,7 +12,7 @@ O câmpus São José IFSC tem espalhado, pelos corredores e salas, *n* câmeras 
 
 É chamada a polícia civil para investigar o caso, que recebe da Direção do câmpus autorização para instalar mais equipamentos de monitoramento e vigilância para ampliar o seu poder de observação. Mas, para isso, é preciso conhecimento técnico para dispor tais dispositivos de forma que atendam às investigações e, sobretudo, às especificações técnica de cada produto. Plantas baixas, *switches* e câmeras com PoE e muitos outros artefatos serão usados, e para isso será preciso a divisão de tecnologia da polícia.
 
-Conseguirá a polícia desvendar mais este mistério?
+Ao longo da investigação, vários problemas aparecem, tecendo uma teia de subtramas a serem resolvidas. Pistas. Quebra-cabeças. Conseguirá a polícia desvendar mais este mistério?
 
 ## Ferramentas Úteis
 
