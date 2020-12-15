@@ -20,3 +20,9 @@ Ao longo da investigação, vários problemas aparecem, tecendo uma teia de subt
 - [Anchor](https://anchor.fm): plataforma de gravação, edição e publicação em vários canais de podcast, com grande integração com o [Spotify](https://spotify.com).
 - [ZoneMinder](https://zoneminder.com/): sistema de vigilância com amplo suporte a modelos de câmeras.
 - [AutoCAD para Web](https://web.autocad.com/): como o próprio nome diz, o aplicativo em versão Web.
+
+# Equipes 
+
+| Equipe | Projeto | Entrega 1 | 
+|-|-|-|
+| [JogoIFSC](https://github.com/JogoIFSC) | [jogo-texto](https://github.com/JogoIFSC/jogo-texto/projects/1) | - |
