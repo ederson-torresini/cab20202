@@ -8,9 +8,9 @@ O uso de jogos para o ensino não é recente, e o [Minecraft Education Edition](
 
 ## Um rascunho de ideia...
 
-O câmpus São José IFSC tem espalhado, pelos corredores e salas, *n* câmeras de segurança, sensores de presença, leitores de digitais. E o que aconteceria se um equipamento de alto valor simplesmente desaparecesse? E outro? E mais outro?!
+O câmpus São José IFSC tem espalhado, pelos corredores e salas, _n_ câmeras de segurança, sensores de presença, leitores de digitais. E o que aconteceria se um equipamento de alto valor simplesmente desaparecesse? E outro? E mais outro?!
 
-É chamada a polícia civil para investigar o caso, que recebe da Direção do câmpus autorização para instalar mais equipamentos de monitoramento e vigilância para ampliar o seu poder de observação. Mas, para isso, é preciso conhecimento técnico para dispor tais dispositivos de forma que atendam às investigações e, sobretudo, às especificações técnica de cada produto. Plantas baixas, *switches* e câmeras com PoE e muitos outros artefatos serão usados, e para isso será preciso a divisão de tecnologia da polícia.
+É chamada a polícia civil para investigar o caso, que recebe da Direção do câmpus autorização para instalar mais equipamentos de monitoramento e vigilância para ampliar o seu poder de observação. Mas, para isso, é preciso conhecimento técnico para dispor tais dispositivos de forma que atendam às investigações e, sobretudo, às especificações técnica de cada produto. Plantas baixas, _switches_ e câmeras com PoE e muitos outros artefatos serão usados, e para isso será preciso a divisão de tecnologia da polícia.
 
 Ao longo da investigação, vários problemas aparecem, tecendo uma teia de subtramas a serem resolvidas. Pistas. Quebra-cabeças. Conseguirá a polícia desvendar mais este mistério?
 
@@ -21,8 +21,9 @@ Ao longo da investigação, vários problemas aparecem, tecendo uma teia de subt
 - [ZoneMinder](https://zoneminder.com/): sistema de vigilância com amplo suporte a modelos de câmeras.
 - [AutoCAD para Web](https://web.autocad.com/): como o próprio nome diz, o aplicativo em versão Web.
 
-# Equipes 
+# Equipes
 
-| Equipe | Projeto | Entrega 1 | 
-|-|-|-|
-| [JogoIFSC](https://github.com/JogoIFSC) | [jogo-texto](https://github.com/JogoIFSC/jogo-texto/projects/1) | - |
+| Equipe                                  | Projeto                                                             | Entrega 1 |
+| --------------------------------------- | ------------------------------------------------------------------- | --------- |
+| [JogoIFSC](https://github.com/JogoIFSC) | [jogo-texto](https://github.com/JogoIFSC/jogo-texto/projects/1)     | -         |
+| [gameif](https://github.com/gameif)     | [Projeto - Jogo Web](https://github.com/gameif/jogo-web/projects/1) | -         |
