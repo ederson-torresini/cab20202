@@ -14,17 +14,24 @@ O câmpus São José IFSC tem espalhado, pelos corredores e salas, _n_ câmeras 
 
 Ao longo da investigação, vários problemas aparecem, tecendo uma teia de subtramas a serem resolvidas. Pistas. Quebra-cabeças. Conseguirá a polícia desvendar mais este mistério?
 
-## Ferramentas Úteis
+## Ferramentas úteis
 
 - [Twine](https://twinery.org): editor online para escrita de textos não lineares, como jogos interativos.
 - [Anchor](https://anchor.fm): plataforma de gravação, edição e publicação em vários canais de podcast, com grande integração com o [Spotify](https://spotify.com).
 - [ZoneMinder](https://zoneminder.com/): sistema de vigilância com amplo suporte a modelos de câmeras.
 - [AutoCAD para Web](https://web.autocad.com/): como o próprio nome diz, o aplicativo em versão Web.
 
-# Equipes
+## Equipes
 
 | Equipe                                       | Projeto                                                             | Entrega 1 |
 | -------------------------------------------- | ------------------------------------------------------------------- | --------- |
 | [JogoIFSC](https://github.com/JogoIFSC)      | [jogo-texto](https://github.com/JogoIFSC/jogo-texto/projects/1)     | -         |
 | [gameif](https://github.com/gameif)          | [Projeto - Jogo Web](https://github.com/gameif/jogo-web/projects/1) | -         |
 | [egg-game](https://github.com/netindev-game) | (não criado)                                                        | -         |
+
+## Tarefas individuais
+
+| Discente  | Código de linha |
+| --------- | --------------- |
+| Ana Elisa | Entregue        |
+| Dailane   | Entregue        |
