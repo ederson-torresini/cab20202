@@ -34,8 +34,10 @@ Ao longo da investigação, vários problemas aparecem, tecendo uma teia de subt
 
 ## Tarefas individuais
 
-| Discente   | Código de linha |
-| ---------- | --------------- |
-| Ana Elisa  | Entregue        |
-| Dailane    | Entregue        |
-| Lucas Hass | Entregue        |
+| Discente          | Código de linha |
+| ----------------- | --------------- |
+| Ana Elisa         | Entregue        |
+| Bruno de Oliveira | Entregue        |
+| Dailane           | Entregue        |
+| Lucas Hass        | Entregue        |
+| José Neto         | Entregue        |
