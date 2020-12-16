@@ -27,7 +27,7 @@ Ao longo da investigação, vários problemas aparecem, tecendo uma teia de subt
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------- |
 | [JogoIFSC](https://github.com/JogoIFSC)                       | [jogo-texto](https://github.com/JogoIFSC/jogo-texto/projects/1)                           | -         |
 | [gameif](https://github.com/gameif)                           | [Projeto - Jogo Web](https://github.com/gameif/jogo-web/projects/1)                       | -         |
-| [egg-game](https://github.com/netindev/egg-game)              | (não criado)                                                                              | -         |
+| [egg-clicker](https://github.com/darkzone2/egg-clicker)       | [configurar libgdx](https://github.com/darkzone2/egg-clicker/projects/1)]                 | -         |
 | [Jessica-ps](https://github.com/Jessica-ps/jogoweb)           | [jogo](https://github.com/Jessica-ps/jogoweb/projects/1)                                  | -         |
 | [GamePog](https://github.com/GamePog)                         | [Desenvolvimento](https://github.com/GamePog/GamePog/projects/1)                          | -         |
 | [OQuartetoFantastico](https://github.com/OQuartetoFantastico) | [Jogo Cabeamento Estruturado](https://github.com/OQuartetoFantastico/jogo-web/projects/2) | -         |
