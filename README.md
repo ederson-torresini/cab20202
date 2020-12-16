@@ -29,6 +29,7 @@ Ao longo da investigação, vários problemas aparecem, tecendo uma teia de subt
 | [gameif](https://github.com/gameif)                 | [Projeto - Jogo Web](https://github.com/gameif/jogo-web/projects/1) | -         |
 | [egg-game](https://github.com/netindev/egg-game)    | (não criado)                                                        | -         |
 | [Jessica-ps](https://github.com/Jessica-ps/jogoweb) | [jogo](https://github.com/Jessica-ps/jogoweb/projects/1)            | -         |
+| [GamePog](https://github.com/GamePog)               | [Desenvolvimento](https://github.com/GamePog/GamePog/projects/1)    | -         |
 
 ## Tarefas individuais
 
