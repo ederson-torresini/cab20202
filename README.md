@@ -23,11 +23,12 @@ Ao longo da investigação, vários problemas aparecem, tecendo uma teia de subt
 
 ## Equipes
 
-| Equipe                                           | Projeto                                                             | Entrega 1 |
-| ------------------------------------------------ | ------------------------------------------------------------------- | --------- |
-| [JogoIFSC](https://github.com/JogoIFSC)          | [jogo-texto](https://github.com/JogoIFSC/jogo-texto/projects/1)     | -         |
-| [gameif](https://github.com/gameif)              | [Projeto - Jogo Web](https://github.com/gameif/jogo-web/projects/1) | -         |
-| [egg-game](https://github.com/netindev/egg-game) | (não criado)                                                        | -         |
+| Equipe                                              | Projeto                                                             | Entrega 1 |
+| --------------------------------------------------- | ------------------------------------------------------------------- | --------- |
+| [JogoIFSC](https://github.com/JogoIFSC)             | [jogo-texto](https://github.com/JogoIFSC/jogo-texto/projects/1)     | -         |
+| [gameif](https://github.com/gameif)                 | [Projeto - Jogo Web](https://github.com/gameif/jogo-web/projects/1) | -         |
+| [egg-game](https://github.com/netindev/egg-game)    | (não criado)                                                        | -         |
+| [Jessica-ps](https://github.com/Jessica-ps/jogoweb) | [jogo](https://github.com/Jessica-ps/jogoweb/projects/1)            | -         |
 
 ## Tarefas individuais
 
