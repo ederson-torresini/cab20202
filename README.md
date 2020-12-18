@@ -37,6 +37,7 @@ Ao longo da investigação, vários problemas aparecem, tecendo uma teia de subt
 | Discente          | Código de linha |
 | ----------------- | --------------- |
 | Ana Elisa         | Entregue        |
+| Beatriz           | Entregue        |
 | Bruno de Oliveira | Entregue        |
 | Dailane           | Entregue        |
 | Lucas Hass        | Entregue        |
