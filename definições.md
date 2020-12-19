@@ -1,6 +1,6 @@
 # Referências
 
-As referências são as mesmas do jogo de [universo compartilhado](https://github.com/boiada-da-cara-preta/jogo-web/blob/main/definições.md):
+As referências são as mesmas do jogo de [universo compartilhado](https://github.com/boidacarapreta/arc20202/blob/main/definições.md):
 
 > As referências, em termos de literatura, partem de duas trilogias:
 >
@@ -17,13 +17,13 @@ De referência de jogo, desde aplicativos de comunicação como [IRC](https://pt
 
 # Contexto histórico
 
-O contexto histórico é o mesmo do jogo de [universo compartilhado](https://github.com/boiada-da-cara-preta/jogo-web/blob/main/definições.md):
+O contexto histórico é o mesmo do jogo de [universo compartilhado](https://github.com/boidacarapreta/arc20202/blob/main/definições.md):
 
 > O jogo se passa num futuro próximo, resultado da pandemia que se estendeu por alguns anos, sem resultados eficientes das vacinas. A mutação do Sars-CoV-2 se mostrou muito mais agressiva ao longo de todo o tempo. Aliás, as pessoas passaram a apresentar quadros clínicos específicos, como se fossem "casulos" de novas mutações. Diante do desespero da ciência, os humanos foram organizados e encerrados em galpões e ginásios improvisados: as ARCas, de forma a reduzir a proliferação das mutações. Assim, essa suposta "escolha genética" foi o estopim de um caos social sem precedentes, e a panaceia foi oferecida pelas gigantes da tecnologia 4.0: o uso de inteligência artificial combinada com robôs especializados para atender a todas as demandas em cada ARCa: de sub a superempregos. As máquinas estavam no controle agora, e essas podiam se dar ao luxo de operarem dentro e fora das ARCas, distribuídas, servindo de sistema financeiro para a nova moeda: a informação.
 
 ## Sobre o mundo
 
-O mundo se estende além do [primeiro jogo](https://github.com/boiada-da-cara-preta/jogo-web/blob/main/definições.md):
+O mundo se estende além do [primeiro jogo](https://github.com/boidacarapreta/arc20202/blob/main/definições.md):
 
 > O mundo agora é um desconhecido fora das ARCas. Especula-se que é um imenso depósito de lixo a céu aberto, entregue a toda sorte de quem puder sobreviver neste ambiente hostil. Ninguém, portanto, tem vontade de sair da ARCa, exceto os mais claustrofóbicos sociais. Mas isto é apenas um véu para encobrir o verdadeiro problema: o ser humano, nestes novos tempos, é praticamente descartável, salvos alguns técnicos de manutenção, como Matias.
 
