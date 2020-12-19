@@ -9,9 +9,10 @@ As referências são as mesmas do jogo de [universo compartilhado](https://githu
 
 - [Snow Crash](https://www.editoraaleph.com.br/snowcrash/p), de Neal Stephenson, um clássico que trata da virtualidade.
 - [Neuromancer](https://www.editoraaleph.com.br/neuromancer/p), o maior dos maiores do gênero _cyberpunk_, de William Gibson.
-  > Para a construção dos personagens e roteiro, vou usar como base ["A Jornada do Escritor"](https://www.editoraaleph.com.br/a-jornada-do-escritor/p), de Christopher Vogler.
-  >
-  > Para escrever, ouço músicas como ["The Pretender"](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34), de Foo Fighters.
+
+> Para a construção dos personagens e roteiro, vou usar como base ["A Jornada do Escritor"](https://www.editoraaleph.com.br/a-jornada-do-escritor/p), de Christopher Vogler.
+>
+> Para escrever, ouço músicas como ["The Pretender"](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34), de Foo Fighters.
 
 De referência de jogo, desde aplicativos de comunicação como [IRC](https://pt.wikipedia.org/wiki/Internet_Relay_Chat), passando por arte ASCII como [Game of Life](https://pt.wikipedia.org/wiki/Jogo_da_vida), [MUDs](https://pt.wikipedia.org/wiki/Multi-user_dungeon) - que são RPGs baseados em texto - até chegar aos jogos de escolha com o uso de I.A. como [AI Dungeon](https://play.aidungeon.io/).
 
