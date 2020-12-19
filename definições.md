@@ -46,10 +46,13 @@ Já Lola conta com um arsenal virtual: senhas, códigos, acessos a sistemas que 
 ## O começo de tudo
 
 > [Parte 1: A Fuga] Matias, em mais um dia monótono de seu trabalho miserável, limpando juntas e trocando filtros de ar, este já tão saturado de pessoas e umidade, acidentalmente destrói um módulo de um computador de borda (*edge computing*). O que ele não sabe, ainda, é que o preço é capital: um módulo por uma vida. No desespero, penhora sua moral e foge às pressas da ARCa, rumo ao mundo exterior.
+
 Lola, por sua vez, inicia sua jornada virtual para localizar o irmão.
 
-> [Parte 2: A Sobrevivência] E agora? Para onde ir? Outras ARCas aceitarão alguém já chipado com a sua origem, `20202`? 
+> [Parte 2: A Sobrevivência] E agora? Para onde ir? Outras ARCas aceitarão alguém já chipado com a sua origem, `20202`?
+
 Lola, neste segundo momento, descobre que o irmão saiu da sua ARCa em busca do mito. E hora de expandir seus braços virtuais pela cidade.
 
 > [Parte 3: A Autodescoberta] Uma casa, ao longe, no alto do morro. Um mosteiro?
+
 Um reencontro dos irmãos? Com que finalidade? A resposta final.
