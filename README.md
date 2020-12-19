@@ -1,4 +1,8 @@
-# Sobre Cabeamentro Estruturado em época de isolamento social
+# CAB 2020.2
+
+A [premissa](https://github.com/boidacarapreta/cab20202/blob/main/premissa.md) e as [definições](https://github.com/boidacarapreta/cab20202/blob/main/definições.md) do jogo dão uma ideia do jogo, mas o bom mesmo é jogar: [https://boidacarapreta.github.io/cab20202](https://boidacarapreta.github.io/cab20202).
+
+## Sobre Cabeamentro Estruturado em época de isolamento social
 
 Como estudar uma disciplina fundamentalmente prática nesta pandemia? Uma sugestão é o desenvolvimento de jogos para o estudo e aplicação de conhecimentos, mesmo que teóricos, do assunto. E a plataforma que pode facilitar bastante é a Web e as linguagens HTML5 e Javascript.
 
@@ -6,7 +10,7 @@ O modelo já foi [aplicado com sucesso anteriormente no Integrado](https://githu
 
 O uso de jogos para o ensino não é recente, e o [Minecraft Education Edition](https://education.minecraft.net/) é um ótimo exemplo. Mas quando falamos de jogos que ganharam as salas de aula pela sua qualidade em contar uma história, como a guerra em [This War of Mine](https://notesfrompoland.com/2020/06/18/poland-puts-computer-game-this-war-of-mine-on-school-reading-list/), é um salto muito significativo.
 
-## Um rascunho de ideia...
+### Um rascunho de ideia...
 
 O câmpus São José IFSC tem espalhado, pelos corredores e salas, _n_ câmeras de segurança, sensores de presença, leitores de digitais. E o que aconteceria se um equipamento de alto valor simplesmente desaparecesse? E outro? E mais outro?!
 
@@ -14,7 +18,7 @@ O câmpus São José IFSC tem espalhado, pelos corredores e salas, _n_ câmeras 
 
 Ao longo da investigação, vários problemas aparecem, tecendo uma teia de subtramas a serem resolvidas. Pistas. Quebra-cabeças. Conseguirá a polícia desvendar mais este mistério?
 
-## Ferramentas úteis
+### Ferramentas úteis
 
 - [Twine](https://twinery.org): editor online para escrita de textos não lineares, como jogos interativos.
 - [Anchor](https://anchor.fm): plataforma de gravação, edição e publicação em vários canais de podcast, com grande integração com o [Spotify](https://spotify.com).
