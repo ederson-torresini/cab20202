@@ -9,7 +9,7 @@
 </head>
 <body>
 <tw-story><noscript><tw-noscript>JavaScript needs to be enabled to play CAB 2020.2.</tw-noscript></noscript></tw-story>
-<tw-storydata name="CAB 2020.2" startnode="1" creator="Twine" creator-version="2.3.12" ifid="E4674BA9-C846-4FD2-A691-544E4B637B17" zoom="0.6" format="Harlowe" format-version="3.2.1" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">tw-sidebar {
+<tw-storydata name="CAB 2020.2" startnode="1" creator="Twine" creator-version="2.3.12" ifid="E4674BA9-C846-4FD2-A691-544E4B637B17" zoom="1" format="Harlowe" format-version="3.2.1" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">tw-sidebar {
     display: none;
 }
 
@@ -31,11 +31,11 @@ preto: #212123
 vermelho: #F51938
 */</style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-tag name="20202" color="blue"></tw-tag>,<tw-tag name="20211" color="yellow"></tw-tag><tw-passagedata pid="1" name="0wn3d" tags="20211" position="96,505" size="100,100">(set: $respostas_corretas to 0)- //Consegui! Con-se-gui! 0wn3d!//
 
-Lola não conseguiu disfarçar a satisfação ao invadir a câmera IP atrás do //stateful firewall// que tanto a irritou nos últimos dias. A câmera, claro, estava com usuário e senha padrão, então essa parte não conta na sua dancinha nerd da vitória. Exatamente às 1h43 da madrugada de terça-feira, o primeiro passo da invasão com escalada de privilégio fora dado. 
+Lola não conseguiu disfarçar a satisfação ao invadir a câmera IP atrás do //stateful firewall// que tanto a irritou nos últimos dias. A câmera, claro, estava com usuário e senha padrão, então essa parte não conta na sua dancinha nerd da vitória. Exatamente às 1h43 da madrugada de terça-feira, o primeiro passo da invasão com escalada de privilégio fora dado.
 
 - //Elementar, minha cara Bea: NAT com pseudo-aleatoridade frágil, permissão de scan de porta em alta taxa de varredura sequencial, IPv6 sobre MAC não aleatório, UPNP liberado. O resto é paciência dos humanos e força bruta das máquinas!//
 
-Beatriz, a mente analítica da dupla. Enquanto Lola era puro ímpeto, divertindo-se perto das 300 teclas por minuto, Beatriz era capaz de desconectar-se deste mundo para apreender padrões. Era o seu infinito particular. Ela bem que tentou, mas não conseguiu evitar de olhar a amiga fazendo a mesma dancinha da vitória, ali mesmo no laboratório de redes, de pijama surrado e meias encardidas. Porque, segundo ela, aquelas meias dão sorte - e, pelo jeito, deram. 
+Beatriz, a mente analítica da dupla. Enquanto Lola era puro ímpeto, divertindo-se perto das 300 teclas por minuto, Beatriz era capaz de desconectar-se deste mundo para apreender padrões. Era o seu infinito particular. Ela bem que tentou, mas não conseguiu evitar de olhar a amiga fazendo a mesma dancinha da vitória, ali mesmo no laboratório de redes, de pijama surrado e meias encardidas. Porque, segundo ela, aquelas meias dão sorte - e, pelo jeito, deram.
 
 Parecia diversão, mas era pura e simplesmente sobrevivência. Juntas, estavam aproveitando boa parte do que viram no curso de Telecomunicações para descobrir como sair do seu refúgio, o IFSC de São José, sem que ninguém perceba e, além disso, contatar Matias, o irmão mais velho de Lola, preso dentro da ARCa 20202.
 
@@ -59,7 +59,7 @@ E assim foi feito: Lola capturou uma imagem da tela, cortou e entregou para a am
 ---
 Avançar para a [[a primeira pergunta]].</tw-passagedata><tw-passagedata pid="3" name="a primeira pergunta" tags="" position="501.6666666666667,506" size="100,100">(set: $pergunta to 1)- //E aí, o que é?// - Lola não se continha de curiosidade. Já tinha antecipado o café da manhã (sem leite nem açúcar, estava ficando complicado manter o peso).
 
-Passaram-se várioas minutos até alguma resposta de Bea. Ela estava ali, sentada na cadeira de madeira, como se estivesse em penitência, rezando para a sua divindade da matemática. E ele a atendeu, como sempre.
+Passaram-se várioas minutos até alguma resposta de Bea. Ela estava ali, sentada na cadeira de madeira, como se estivesse em penitência, rezando para a sua divindade da matemática. E ela a atendeu, como sempre.
 
 - //Está vendo que são oito colunas? Se olhar nas várias linhas, o padrão indica que são, com certeza, oito colunas. Mas não tenho certeza sobre o agrupamento das linhas. Arrisco até um palpite: como é uma informação discreta, digital, deve ser um código de linha. Não deve ser nada tão antigo como Manchester, a menos que seja um preciosismo de quem fez isso. Não acredito que seja. MLT-3 também não é, isso é óbvio: as linhas não são múltiplos de 3. Então resta PAM5 ou NRZ. E aí, o que me diz, Lola?//
 ---
@@ -68,7 +68,7 @@ Lola responde:
 - //Óbvio que é [[PAM5]]!//
 - //Claro que é [[NRZ]]!//</tw-passagedata><tw-passagedata pid="4" name="NRZ" tags="" position="698.3333333333334,597.6666666666667" size="100,100">(unless: $resposta is 1)[(set: $respostas_corretas to it + 1)](set: $resposta to 1)- //Que sintonia, hein Lola? É isso mesmo! Agora é decodificar isso para ver o que temos!// - agora era a vez de Bea estar eufórica com o progresso.
 
-- //Não contavam com a minha astúcia!// - Lola tinha 16 anos, mas quando alguém sabe as frases do Chapolim e do Jaspion de cor, suas opções de relacionamento diminuem consideravelmente...</tw-passagedata><tw-passagedata pid="5" name="PAM5" tags="" position="701.6666666666666,402.6666666666666" size="100,100">(set: $resposta to 1)Quase, jovem padawan. A resposta está ao lado, basta limpar a mente das impurezas deste mundo insano. Volta e escolhe o caminho correto.
+- //Não contavam com a minha astúcia!//</tw-passagedata><tw-passagedata pid="5" name="PAM5" tags="" position="701.6666666666666,402.6666666666666" size="100,100">(set: $resposta to 1)Quase, jovem padawan. A resposta está ao lado, basta limpar a mente das impurezas deste mundo insano. Volta e escolhe o caminho correto.
 ---
 Voltar para [[a primeira pergunta]].</tw-passagedata></tw-storydata>
 <script title="Twine engine code" data-main="harlowe">"use strict";var _slicedToArray=function(){return function(e,t){if(Array.isArray(e))return e;if(Symbol.iterator in Object(e))return function(e,t){var n=[],r=!0,i=!1,a=void 0;try{for(var o,s=e[Symbol.iterator]();!(r=(o=s.next()).done)&&(n.push(o.value),!t||n.length!==t);r=!0);}catch(e){i=!0,a=e}finally{try{!r&&s.return&&s.return()}finally{if(i)throw a}}return n}(e,t);throw new TypeError("Invalid attempt to destructure non-iterable instance")}}(),_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e};function _defineProperty(e,t,n){return t in e?Object.defineProperty(e,t,{value:n,enumerable:!0,configurable:!0,writable:!0}):e[t]=n,e}function _toConsumableArray(e){if(Array.isArray(e)){for(var t=0,n=Array(e.length);t<e.length;t++)n[t]=e[t];return n}return Array.from(e)}!function(){
