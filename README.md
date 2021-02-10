@@ -27,14 +27,14 @@ Ao longo da investigação, vários problemas aparecem, tecendo uma teia de subt
 
 ## Equipes
 
-| Equipe                                                        | Projeto                                                                                   | Entrega 1 |
-| ------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------- |
-| [JogoIFSC](https://github.com/JogoIFSC)                       | [jogo-texto](https://github.com/JogoIFSC/jogo-texto/projects/1)                           | -         |
-| [gameif](https://github.com/gameif)                           | [Projeto - Jogo Web](https://github.com/gameif/jogo-web/projects/1)                       | -         |
-| [egg-clicker](https://github.com/darkzone2/egg-clicker)       | [configurar libgdx](https://github.com/darkzone2/egg-clicker/projects/1)                  | -         |
-| [glass-queens](https://github.com/glass-queens)               | [jogo](https://github.com/glass-queens/jogoweb/projects/5)                                | -         |
-| [GamePog](https://github.com/GamePog)                         | [Desenvolvimento](https://github.com/GamePog/GamePog/projects/1)                          | -         |
-| [OQuartetoFantastico](https://github.com/OQuartetoFantastico) | [Jogo Cabeamento Estruturado](https://github.com/OQuartetoFantastico/jogo-web/projects/2) | -         |
+| Equipe                                                        | Projeto                                                                                   | Entrega 1                                                                                            |
+| ------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [JogoIFSC](https://github.com/JogoIFSC)                       | [jogo-texto](https://github.com/JogoIFSC/jogo-texto/projects/1)                           | 10                                                                                                   |
+| [gameif](https://github.com/gameif)                           | [Projeto - Jogo Web](https://github.com/gameif/jogo-web/projects/1)                       | 10                                                                                                   |
+| [egg-clicker](https://github.com/darkzone2/egg-clicker)       | [configurar libgdx](https://github.com/darkzone2/egg-clicker/projects/1)                  | 0: não há registro no projeto                                                                        |
+| [glass-queens](https://github.com/glass-queens)               | [jogo](https://github.com/glass-queens/jogoweb/projects/5)                                | 9: faltou ler capítulos 3 e 6 da apostila                                                            |
+| [GamePog](https://github.com/GamePog)                         | [Desenvolvimento](https://github.com/GamePog/GamePog/projects/1)                          | 3: cerca de 30% feito das [tarefas](https://github.com/boidacarapreta/cab20202/milestone/1?closed=1) |
+| [OQuartetoFantastico](https://github.com/OQuartetoFantastico) | [Jogo Cabeamento Estruturado](https://github.com/OQuartetoFantastico/jogo-web/projects/2) | 7: cerca de 70% feito das [tarefas](https://github.com/boidacarapreta/cab20202/milestone/1?closed=1) |
 
 ## Tarefas individuais
 
