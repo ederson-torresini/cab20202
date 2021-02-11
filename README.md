@@ -48,5 +48,6 @@ Ao longo da investigação, vários problemas aparecem, tecendo uma teia de subt
 | Jessica           | Entregue        |
 | José Neto         | Entregue        |
 | Lucas Hass        | Entregue        |
+| Roberto           | Entregue        |
 | Talita            | Entregue        |
 | Yasmin            | Entregue        |
