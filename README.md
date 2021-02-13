@@ -45,6 +45,7 @@ Ao longo da investigação, vários problemas aparecem, tecendo uma teia de subt
 | Bruno de Oliveira | Entregue        |
 | Dailane           | Entregue        |
 | Guilherme         | Entregue        |
+| Jader             | Entregue        |
 | Jessica           | Entregue        |
 | José Neto         | Entregue        |
 | Lucas Hass        | Entregue        |
