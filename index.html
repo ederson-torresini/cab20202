@@ -9,7 +9,7 @@
 </head>
 <body>
 <tw-story><noscript><tw-noscript>JavaScript needs to be enabled to play CAB 2020.2.</tw-noscript></noscript></tw-story>
-<tw-storydata name="CAB 2020.2" startnode="1" creator="Twine" creator-version="2.3.12" ifid="E4674BA9-C846-4FD2-A691-544E4B637B17" zoom="1" format="Harlowe" format-version="3.2.1" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">tw-sidebar {
+<tw-storydata name="CAB 2020.2" startnode="1" creator="Twine" creator-version="2.3.13" ifid="E4674BA9-C846-4FD2-A691-544E4B637B17" zoom="1" format="Harlowe" format-version="3.2.1" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">tw-sidebar {
     display: none;
 }
 
@@ -18,7 +18,7 @@ tw-story {
 	color: #E3DCE3;
 }
 
-tw-story[tags="20202"] {
+tw-story[tags="arc"] {
 	background-color: #E3DCE3;
 	color: #212123;
 }
@@ -29,7 +29,7 @@ azul claro: #4D90BA
 cinza: #E3DCE3
 preto: #212123
 vermelho: #F51938
-*/</style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-tag name="20202" color="blue"></tw-tag>,<tw-tag name="20211" color="yellow"></tw-tag><tw-passagedata pid="1" name="0wn3d" tags="20211" position="96,505" size="100,100">(set: $respostas_corretas to 0)- //Consegui! Con-se-gui! 0wn3d!//
+*/</style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-tag name="20202" color="blue"></tw-tag>,<tw-tag name="20211" color="yellow"></tw-tag>,<tw-tag name="arc" color="blue"></tw-tag><tw-passagedata pid="1" name="0wn3d" tags="" position="96,505" size="100,100">(set: $respostas_corretas to 0)- //Consegui! Con-se-gui! 0wn3d!//
 
 Lola não conseguiu disfarçar a satisfação ao invadir a câmera IP atrás do //stateful firewall// que tanto a irritou nos últimos dias. A câmera, claro, estava com usuário e senha padrão, então essa parte não conta na sua dancinha nerd da vitória. Exatamente às 1h43 da madrugada de terça-feira, o primeiro passo da invasão com escalada de privilégio fora dado.
 
@@ -72,7 +72,29 @@ Lola responde:
 ---
 Avançar para [[a segunda pergunta]].</tw-passagedata><tw-passagedata pid="5" name="PAM5" tags="" position="701.6666666666666,402.6666666666666" size="100,100">(set: $resposta to 1)Quase, jovem padawan. A resposta está ao lado, basta limpar a mente das impurezas deste mundo insano. Volta e escolhe o caminho correto.
 ---
-Voltar para [[a primeira pergunta]].</tw-passagedata><tw-passagedata pid="6" name="a segunda pergunta" tags="" position="901.3333333333334,601.6666666666667" size="100,100">(set: $codigo to (prompt: &quot;Qual o valor do código de linha?&quot;, &quot;&quot;))(if: $codigo is &quot;&quot;)[Não sabe ainda? Tudo bem, temos (um pouco de) tempo.](else:)[A resposta dada foi: (print: $codigo).]</tw-passagedata></tw-storydata>
+Voltar para [[a primeira pergunta]].</tw-passagedata><tw-passagedata pid="6" name="a segunda pergunta" tags="" position="901.3333333333334,601.6666666666667" size="100,100">(set: $codigo to (prompt: &quot;Qual o valor do código de linha?&quot;, &quot;&quot;))(if: $codigo is &quot;&quot;)[Não sabe ainda? Tudo bem, temos (um pouco de) tempo.](else:)[A resposta dada foi: (print: $codigo).]
+---
+O progresso daquela madrugada fora incrível. Sem precedentes. Lola conseguira acessar várias câmeras, listar compartilhamentos de arquivos com registros dessas câmeras e outros documentos. Porém, poucos documentos que realmente chamavam a atenção. E câmera filmando o nada, sem detecção de movimento, é o mesmo que nada.
+
+Foram dormir por volta das seis da manhã, quando Eos anunciava um novo dia em seu belíssimo carro de fogo rosa e carmim. Seu irmão, Hélio, estava logo chegando. O café, o Líquido Sagrado, havia acabado há pouco. Sinal de que era hora de dormir. As frases não faziam mais sentido e os olhos não focavam mais - Bea, inclusive, não sabia se a culpa era do astigmatismo ou da miopia.
+
+No &quot;dia seguinte&quot;, Lola acordou sobressaltada, de um sonho quase vívido:
+
+- //Bea! E se a gente ganhasse tempo construindo um T na rede?// - explicando: Lola queria fazer uma bifurcação física nos cabos da rede para capturar todo o tráfego em nível físico e ver se encontra mais informação útil. Ou mais rápido.
+
+- //Bea? Bea? BEEEAAA!// - Gritar de pouco adiantava, Bea estava escondida nas asas de Morfeu, embalada por um susurro quase, eu disse quase, angelical. Ou, para quem pegar a referência, ela estava naquela bela e confortável poltrona de Morfeu, assistindo a TV e comendo jujubas vermelhas. Só as vermelhas. Sempre as vermelhas.
+
+Depois de alguns minutos, Bea regressou ao mundo da pandemia e da melhor amiga em busca do irmão:
+
+- //Lola, mesmo que fosse possível construir um artefato desses sem prejudicar os enlaces físicos, pense na complexidade em processar a informação.// - só Bea mesmo para falar artefato...
+
+O argumento era muito razoável. Se considerarmos o par metálico, aquele não blindado mesmo - o UTP - seria preciso saber o código de linha, se há embaralhamento dos dados (//scrambling//) para reduzir problemas de transmissão, e vários outros parâmetros. Além disso, ter um dispositivo para operar na largura de banda, e para isso ter ainda de saber a categoria do cabo: 5? 5e? 6? 6a? Mais: supondo que o par metálico fosse Cat.5e ou 6, saber também se a banda base opera com dois ou quatro pares de cabo: 100baseTX? 1000baseT? 1000baseTX? Se fosse baseT, estamos falando de transmissão nos dois sentidos... Maxwell não estava ajudando...
+
+E fibra óptica? Ah, fibra óptica é outra história: se é multimodo, tipo de fotodiodo etc. etc. E não havendo um terminal pronto, como fazer um? Um circuito com prisma e  fotodiodo receptor operando a 1GHz? Conectado a um osciloscópio a essa taxa? Fora de questão.
+
+O jeito era, irremediavelmente, vasculhar nos documentos por algo interessante. E Bea, a racional Bea, a paciente Bea, achou algo que mudou no final da segunda noite de trabalho.
+---
+Avançar para [[o primeiro arquivo]].</tw-passagedata><tw-passagedata pid="7" name="o primeiro arquivo" tags="arc" position="1100.3333333333335,601.6666666666667" size="100,100">.</tw-passagedata></tw-storydata>
 <script title="Twine engine code" data-main="harlowe">"use strict";var _slicedToArray=function(){return function(e,t){if(Array.isArray(e))return e;if(Symbol.iterator in Object(e))return function(e,t){var n=[],r=!0,i=!1,a=void 0;try{for(var o,s=e[Symbol.iterator]();!(r=(o=s.next()).done)&&(n.push(o.value),!t||n.length!==t);r=!0);}catch(e){i=!0,a=e}finally{try{!r&&s.return&&s.return()}finally{if(i)throw a}}return n}(e,t);throw new TypeError("Invalid attempt to destructure non-iterable instance")}}(),_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e};function _defineProperty(e,t,n){return t in e?Object.defineProperty(e,t,{value:n,enumerable:!0,configurable:!0,writable:!0}):e[t]=n,e}function _toConsumableArray(e){if(Array.isArray(e)){for(var t=0,n=Array(e.length);t<e.length;t++)n[t]=e[t];return n}return Array.from(e)}!function(){
 /**
  * @license almond 0.3.3 Copyright jQuery Foundation and other contributors.
