@@ -49,6 +49,7 @@ Ao longo da investigação, vários problemas aparecem, tecendo uma teia de subt
 | Gustavo           | Entregue        |
 | Jader             | Entregue        |
 | Jessica           | Entregue        |
+| Larissa           | Entregue        |
 | José Neto         | Entregue        |
 | Lucas Hass        | Entregue        |
 | Roberto           | Entregue        |
