@@ -27,14 +27,14 @@ Ao longo da investigação, vários problemas aparecem, tecendo uma teia de subt
 
 ## Equipes
 
-| Equipe                                                        | Projeto                                                                                   | Entrega 1 | Entrega 2 | Entrega 3 | Entrega 4 | Entrega 5 | Entrega 6 | Entrega 7      |
-| ------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------- | --------- | --------- | --------- | --------- | --------- | -------------- |
-| [JogoIFSC](https://github.com/JogoIFSC)                       | [jogo-texto](https://github.com/JogoIFSC/jogo-texto/projects/1)                           | 10        | 10        | 10        | 10        | 10        | 10        | 8 (faltou #19) |
-| [gameif](https://github.com/gameif)                           | [Projeto - Jogo Web](https://github.com/gameif/jogo-web/projects/1)                       | 10        | 10        | 10        | 10        | 10        | 10        | 5              |
-| [darkzone2](https://github.com/darkzone2)                     | [configurar libgdx](https://github.com/darkzone2/egg-clicker/projects/1)                  | 10        | 10        | 10        | 10        | 10        | 10        | 5              |
-| [glass-queens](https://github.com/glass-queens)               | [jogo](https://github.com/glass-queens/jogoweb/projects/5)                                | 10        | 10        | 10        | 10        | 10        | 10        | 2              |
-| [GamePog](https://github.com/GamePog)                         | [Just Defuse](https://github.com/GamePog/Just-Defuse/projects/1)                          | 10        | 10        | 0         | 0         | 0         | 0         | 0              |
-| [OQuartetoFantastico](https://github.com/OQuartetoFantastico) | [Jogo Cabeamento Estruturado](https://github.com/OQuartetoFantastico/jogo-web/projects/2) | 10        | 10        | 10        | 10        | 10        | 10        | 10             |
+| Equipe                                                        | Projeto                                                                                   | Entrega 1 | Entrega 2 | Entrega 3 | Entrega 4 | Entrega 5 | Entrega 6 | Entrega 7 |
+| ------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| [JogoIFSC](https://github.com/JogoIFSC)                       | [jogo-texto](https://github.com/JogoIFSC/jogo-texto/projects/1)                           | 10        | 10        | 10        | 10        | 10        | 10        | 10        |
+| [gameif](https://github.com/gameif)                           | [Projeto - Jogo Web](https://github.com/gameif/jogo-web/projects/1)                       | 10        | 10        | 10        | 10        | 10        | 10        | 10        |
+| [darkzone2](https://github.com/darkzone2)                     | [configurar libgdx](https://github.com/darkzone2/egg-clicker/projects/1)                  | 10        | 10        | 10        | 10        | 10        | 10        | 10        |
+| [glass-queens](https://github.com/glass-queens)               | [jogo](https://github.com/glass-queens/jogoweb/projects/5)                                | 10        | 10        | 10        | 10        | 10        | 10        | 5         |
+| [GamePog](https://github.com/GamePog)                         | [Just Defuse](https://github.com/GamePog/Just-Defuse/projects/1)                          | 10        | 10        | 0         | 0         | 0         | 0         | 0         |
+| [OQuartetoFantastico](https://github.com/OQuartetoFantastico) | [Jogo Cabeamento Estruturado](https://github.com/OQuartetoFantastico/jogo-web/projects/2) | 10        | 10        | 10        | 10        | 10        | 10        | 10        |
 
 ## Tarefas individuais
 
