@@ -27,33 +27,9 @@ Ao longo da investigação, vários problemas aparecem, tecendo uma teia de subt
 
 ## Equipes
 
-| Equipe                                                        | Projeto                                                                                   | Entrega 1 | Entrega 2 | Entrega 3 | Entrega 4 | Entrega 5 | Entrega 6 | Entrega 7 |
-| ------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| [JogoIFSC](https://github.com/JogoIFSC)                       | [jogo-texto](https://github.com/JogoIFSC/jogo-texto/projects/1)                           | 10        | 10        | 10        | 10        | 10        | 10        | 10        |
-| [gameif](https://github.com/gameif)                           | [Projeto - Jogo Web](https://github.com/gameif/jogo-web/projects/1)                       | 10        | 10        | 10        | 10        | 10        | 10        | 10        |
-| [darkzone2](https://github.com/darkzone2)                     | [configurar libgdx](https://github.com/darkzone2/egg-clicker/projects/1)                  | 10        | 10        | 10        | 10        | 10        | 10        | 10        |
-| [glass-queens](https://github.com/glass-queens)               | [jogo](https://github.com/glass-queens/jogoweb/projects/5)                                | 10        | 10        | 10        | 10        | 10        | 10        | 5         |
-| [GamePog](https://github.com/GamePog)                         | [Just Defuse](https://github.com/GamePog/Just-Defuse/projects/1)                          | 10        | 10        | 0         | 0         | 0         | 0         | 0         |
-| [OQuartetoFantastico](https://github.com/OQuartetoFantastico) | [Jogo Cabeamento Estruturado](https://github.com/OQuartetoFantastico/jogo-web/projects/2) | 10        | 10        | 10        | 10        | 10        | 10        | 10        |
-
-## Tarefas individuais
-
-| Discente          | Código de linha |
-| ----------------- | --------------- |
-| Ana Elisa         | Entregue        |
-| Beatriz           | Entregue        |
-| Bruno de Oliveira | Entregue        |
-| Dailane           | Entregue        |
-| Gabriel           | Entregue        |
-| Guilherme         | Entregue        |
-| Gustavo           | Entregue        |
-| Jader             | Entregue        |
-| Jessica           | Entregue        |
-| Larissa           | Entregue        |
-| Lucas Cruz        | Entregue        |
-| José Neto         | Entregue        |
-| Lucas Hass        | Entregue        |
-| Roberto           | Entregue        |
-| Talita            | Entregue        |
-| Vitor             | Entregue        |
-| Yasmin            | Entregue        |
+- [Vitor Augusto Espindola](https://github.com/boidacarapreta/cab20202-JogoIFSC-jogo-texto) ([original](https://github.com/JogoIFSC/jogo-texto))
+- [Beatriz Paz Faria](https://github.com/boidacarapreta/cab20202-gameif-jogo-web) ([original](https://github.com/gameif/jogo-web))
+- [Jader Theisges, José Medeiros Neto, Gustavo Casagrande Brascher Júnior e Gabriel Henrique da Silveira](https://github.com/boidacarapreta/cab20202-darkzone2-egg-clicker) ([original](https://github.com/darkzone2/egg-clicker))
+- [Fernanda Alcione de Souza, Jessica Proença da Silva e Larissa de Campos da Silva](https://github.com/boidacarapreta/cab20202-glass-queens-jogoweb) ([original](https://github.com/glass-queens/jogoweb))
+- [Thiago Barbieri Catarina, Guilherme Ernzen Marçal, Bruno de Oliveira](https://github.com/boidacarapreta/cab20202-GamePog-Just-Defuse) ([original](https://github.com/GamePog/Just-Defuse))
+- [Lucas Hass, Ana Elisa Ferreira Duarte, Daliane de Lima Felisbino e Talita da Silva de Moura](https://github.com/boidacarapreta/cab20202-OQuartetoFantastico-jogo-web) ([original](https://github.com/OQuartetoFantastico/jogo-web))
