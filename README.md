@@ -28,7 +28,7 @@ Ao longo da investigação, vários problemas aparecem, tecendo uma teia de subt
 ## Equipes
 
 - [Vitor Augusto Espindola](https://github.com/boidacarapreta/cab20202-JogoIFSC-jogo-texto) ([original](https://github.com/JogoIFSC/jogo-texto))
-- [Beatriz Paz Faria](https://github.com/boidacarapreta/cab20202-gameif-jogo-web) ([original](https://github.com/gameif/jogo-web))
+- [Beatriz Paz Faria e Yasmin Vitorio](https://github.com/boidacarapreta/cab20202-gameif-jogo-web) ([original](https://github.com/gameif/jogo-web))
 - [Jader Theisges, José Medeiros Neto, Gustavo Casagrande Brascher Júnior e Gabriel Henrique da Silveira](https://github.com/boidacarapreta/cab20202-darkzone2-egg-clicker) ([original](https://github.com/darkzone2/egg-clicker))
 - [Fernanda Alcione de Souza, Jessica Proença da Silva e Larissa de Campos da Silva](https://github.com/boidacarapreta/cab20202-glass-queens-jogoweb) ([original](https://github.com/glass-queens/jogoweb))
 - [Thiago Barbieri Catarina, Guilherme Ernzen Marçal, Bruno de Oliveira](https://github.com/boidacarapreta/cab20202-GamePog-Just-Defuse) ([original](https://github.com/GamePog/Just-Defuse))
